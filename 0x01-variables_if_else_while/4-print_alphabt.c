@@ -1,10 +1,10 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
-  * main - Entry point
-  * Descriptio: prints lowercase alphabets
-  * Return: Always 0 (success)
-  */
+ * main - Entry point
+ * Description: prints lowercase alphabets
+ * Return: Always 0 (success)
+ */
 int main(void)
 {
 	int ch;
@@ -15,10 +15,10 @@ int main(void)
 		{
 			putchar(ch);
 		}
-		else								
-		{	
+		else
+		{
 		}
-     	 }
+	}
 	putchar('\n');
 	return (0);
 }
