@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * main -Entry point
+ * main - Entry point
  * Description-prints_putschar
- * return 0
+ * Return: Always 0
  */
 int main(void)
 {
@@ -13,8 +13,8 @@ int main(void)
 	while (str[i] != '\0')
 	{
 		char c = str[i];
-		_putchar(c);
 
+		_putchar(c);
 		i++;
 	}
 return (0);
