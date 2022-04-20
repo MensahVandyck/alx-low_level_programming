@@ -1,5 +1,5 @@
 #include "main.h"
-<F11><F11><F11><F11><F11><F11><F11><F11>
+
 /**
  * print_alphabet_x10 - Make alphabet x10 times
  *
